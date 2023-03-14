@@ -1,0 +1,12 @@
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\bin\Debug\net7.0\DotnetWorkshop.Domain.deps.json
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\bin\Debug\net7.0\DotnetWorkshop.Domain.dll
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\bin\Debug\net7.0\DotnetWorkshop.Domain.pdb
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\DotnetWorkshop.Domain.csproj.AssemblyReference.cache
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\DotnetWorkshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\DotnetWorkshop.Domain.AssemblyInfoInputs.cache
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\DotnetWorkshop.Domain.AssemblyInfo.cs
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\DotnetWorkshop.Domain.csproj.CoreCompileInputs.cache
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\DotnetWorkshop.Domain.dll
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\refint\DotnetWorkshop.Domain.dll
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\DotnetWorkshop.Domain.pdb
+C:\A_DVSProject\DotnetWorkshop\DotnetWorkshop.Domain\obj\Debug\net7.0\ref\DotnetWorkshop.Domain.dll

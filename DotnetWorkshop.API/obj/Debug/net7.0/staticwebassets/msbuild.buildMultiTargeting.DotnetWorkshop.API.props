@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotnetWorkshop.API.props" />
+</Project>

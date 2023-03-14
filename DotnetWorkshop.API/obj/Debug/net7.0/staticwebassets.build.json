@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IUCFc0NbsQ/8hkwyg+rFMruNJruydwAOOmcxK7yzQXk=",
+  "Source": "DotnetWorkshop.API",
+  "BasePath": "_content/DotnetWorkshop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
